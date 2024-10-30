@@ -1,0 +1,235 @@
+# Copyright (C) 2016 Advanced ads Management by Inazo
+# This file is distributed under the same license as the Advanced ads Management by Inazo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced ads Management by Inazo 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/inazo-advanced-ads-management\n"
+"POT-Creation-Date: 2016-09-09 10:59:18+00:00\n"
+"PO-Revision-Date: 2016-09-09 13:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 1.3/class/inazo_list_table_adv_ads_manager.php:38
+msgid "Title"
+msgstr "Titre"
+
+#: 1.3/class/inazo_list_table_adv_ads_manager.php:39
+msgid "Start date"
+msgstr "Date de début"
+
+#: 1.3/class/inazo_list_table_adv_ads_manager.php:40
+msgid "End date"
+msgstr "Date de fin"
+
+#: 1.3/class/inazo_list_table_adv_ads_manager.php:124
+msgid "Edit"
+msgstr "Modifier"
+
+#: 1.3/class/inazo_list_table_adv_ads_manager.php:125
+msgid "Are you sure to delete this ad ?"
+msgstr "Êtes-vous sur de vouloir supprimer cette publicité ?"
+
+#: 1.3/class/inazo_list_table_adv_ads_manager.php:125
+msgid "Delete"
+msgstr "Supprimer"
+
+#: 1.3/class/inazo_widget_adds_manager.php:26 class/inazo_widget_adds_manager.php:26
+msgid "Advanced ads Manager"
+msgstr "Gestion avancée de publicités"
+
+#: 1.3/class/inazo_widget_adds_manager.php:27 class/inazo_widget_adds_manager.php:27
+msgid "A widget for include your ads"
+msgstr "Widget pour afficher les publicités"
+
+#: 1.3/class/inazo_widget_adds_manager.php:41 1.3/class/inazo_widget_adds_manager.php:66
+#: class/inazo_widget_adds_manager.php:41 class/inazo_widget_adds_manager.php:66
+msgid "4"
+msgstr ""
+
+#: 1.3/class/inazo_widget_adds_manager.php:42 1.3/class/inazo_widget_adds_manager.php:67
+#: class/inazo_widget_adds_manager.php:42 class/inazo_widget_adds_manager.php:67
+msgid "New title"
+msgstr "Titre"
+
+#: 1.3/class/inazo_widget_adds_manager.php:43 1.3/class/inazo_widget_adds_manager.php:44
+#: 1.3/class/inazo_widget_adds_manager.php:68 1.3/class/inazo_widget_adds_manager.php:69
+#: class/inazo_widget_adds_manager.php:43 class/inazo_widget_adds_manager.php:44
+#: class/inazo_widget_adds_manager.php:68 class/inazo_widget_adds_manager.php:69
+msgid "0"
+msgstr ""
+
+#: 1.3/class/inazo_widget_adds_manager.php:45 1.3/class/inazo_widget_adds_manager.php:46
+#: 1.3/class/inazo_widget_adds_manager.php:70 1.3/class/inazo_widget_adds_manager.php:71
+#: class/inazo_widget_adds_manager.php:45 class/inazo_widget_adds_manager.php:46
+#: class/inazo_widget_adds_manager.php:70 class/inazo_widget_adds_manager.php:71
+msgid "290"
+msgstr ""
+
+#: 1.3/inazo.wp.adv.ads.management.php:83
+msgid "Ads Management"
+msgstr "Publicités"
+
+#: 1.3/inazo.wp.adv.ads.management.php:84 1.3/inazo.wp.adv.ads.management.php:308
+msgid "List of ads"
+msgstr "Toutes les pubs"
+
+#: 1.3/inazo.wp.adv.ads.management.php:85 1.3/inazo.wp.adv.ads.management.php:257
+msgid "Add an ads"
+msgstr "Ajouter une pub"
+
+#: 1.3/inazo.wp.adv.ads.management.php:155 inazo.wp.adv.ads.management.php:151
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les droits suffisants pour accéder à la page"
+
+#: 1.3/view/add.php:15 view/add.php:15
+msgid "Name of ads"
+msgstr "Nom de la pub"
+
+#: 1.3/view/add.php:20 view/add.php:20
+msgid "Date start of ads (default: today)"
+msgstr "Date de début de diffusion ( défaut : aujourd'hui)"
+
+#: 1.3/view/add.php:25 view/add.php:25
+msgid "Date end of ads (default: never)"
+msgstr ""
+"Date de fin de diffusion (défaut : jamais // la date est la date du dernier jour de parution)"
+
+#: 1.3/view/add.php:30 view/add.php:30
+msgid "URL"
+msgstr ""
+
+#: 1.3/view/add.php:35 view/add.php:35
+msgid "Target of link"
+msgstr "Cible du lien"
+
+#: 1.3/view/add.php:37
+msgid "Same window"
+msgstr "Même page"
+
+#: 1.3/view/add.php:38
+msgid "New window"
+msgstr "Nouvel onglet"
+
+#: 1.3/view/add.php:43 view/add.php:43
+msgid "Activate the ads"
+msgstr "Activer la pub"
+
+#: 1.3/view/add.php:45
+msgid "Enable"
+msgstr "Activer"
+
+#: 1.3/view/add.php:46
+msgid "Disable"
+msgstr "Désactiver"
+
+#: 1.3/view/add.php:53
+msgid "HTML Codes"
+msgstr "Code HTML"
+
+#: 1.3/view/add.php:58
+msgid "OR"
+msgstr "OU"
+
+#: 1.3/view/add.php:62
+msgid "Image from Media library"
+msgstr "Image depuis la médiathèque de Wordpress"
+
+#: 1.3/view/add.php:88 view/add.php:82
+msgid "Choose an Image"
+msgstr "Choisissez une image"
+
+#: 1.3/view/add.php:89 view/add.php:83
+msgid "Choose this image"
+msgstr "Choisissez une image"
+
+#: 1.3/view/add.php:89 view/add.php:83
+msgid "Set default image"
+msgstr "Image par défaut"
+
+#: 1.3/view/messages/ajout-ok.php:9 view/messages/ajout-ok.php:9
+msgid "The ads was succesfully added."
+msgstr "La publicité a correctement été ajoutée."
+
+#: 1.3/view/messages/delete-ok.php:9 view/messages/delete-ok.php:9
+msgid "The ads was succesfully removed."
+msgstr "La publicité a correctement été supprimée."
+
+#: 1.3/view/messages/update-ok.php:9 view/messages/update-ok.php:9
+msgid "The ads was succesfully updated"
+msgstr "La publicité a correctement été mise à jour."
+
+#: 1.3/view/widget/back.php:9 view/widget/back.php:9
+msgid "Title:"
+msgstr "Titre"
+
+#: 1.3/view/widget/back.php:14 view/widget/back.php:14
+msgid "Max of ads to show:"
+msgstr "Nombre maximum de publicité à afficher"
+
+#: 1.3/view/widget/back.php:19 view/widget/back.php:19
+msgid "Order ads by:"
+msgstr "Classement des publicité"
+
+#: 1.3/view/widget/back.php:21
+msgid "Random"
+msgstr "Aléatoire"
+
+#: 1.3/view/widget/back.php:22
+msgid "By start date"
+msgstr "Par date de début"
+
+#: 1.3/view/widget/back.php:23
+msgid "By end date"
+msgstr "Par date de fin"
+
+#: 1.3/view/widget/back.php:28 view/widget/back.php:28
+msgid "Show multiple ads:"
+msgstr "Afficher plusieurs publicités"
+
+#: 1.3/view/widget/back.php:30
+msgid "Yes"
+msgstr "Oui"
+
+#: 1.3/view/widget/back.php:31
+msgid "No"
+msgstr "Non"
+
+#: 1.3/view/widget/back.php:36 view/widget/back.php:36
+msgid "Width of zone:"
+msgstr "Largeur de la zone d'affichage"
+
+#: 1.3/view/widget/back.php:41 view/widget/back.php:41
+msgid "Height of zone:"
+msgstr "Hauteur de la zone d'affichage"
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced ads Management by Inazo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin for manage ads with widget, on your wordpress site. Use media form library or code to "
+"display ads."
+msgstr ""
+"Plugin pour gérer vos publicités sur votre site avec un widget pour les afficher. Publicité "
+"créée depuis la librairie média de WP ou depuis un code HTML"
+
+#. Author of the plugin/theme
+msgid "Inazo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.kanjian.fr"
+msgstr ""
+
+#~ msgid "Oui"
+#~ msgstr "Oui"
+
+#~ msgid "Non"
+#~ msgstr "Non"
